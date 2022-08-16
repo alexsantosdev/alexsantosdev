@@ -1,4 +1,4 @@
-### Olá! Eu sou Alex, bem vindo ao meu GitHub. 👋
+### Hello World, sou Alex e bem-vindo ao meu GitHub. 👋
 ##
 
 <div align="left">
